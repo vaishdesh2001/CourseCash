@@ -1,0 +1,28 @@
+{
+  "name": "coursecash",
+  "version": "1.0.0",
+  "description": "An app that equips employable people with course material that helps them boost skills to make them suitable for the job that they want. It also connects them with these jobs based on the skills.",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmaykh/CourseCash.git"
+  },
+  "keywords": [
+    "hackmit"
+  ],
+  "author": "Chinmay K Haritas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinmaykh/CourseCash/issues"
+  },
+  "homepage": "https://github.com/chinmaykh/CourseCash#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0",
+    "path": "0.12.7",
+    "csvtojson": "2.0.10"
+  }
+}

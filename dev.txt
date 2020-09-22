@@ -1,0 +1,33 @@
+Hello folks!
+
+Here's an overview of the workflow for your refence.
+Update this and ping on whatsapp
+
+Download and install node.js
+Run npm test in root folder
+
+Work distribution
+
+- Chin and Vaishnavi - Web Front end
+- Kiran, Chin and Vinesh - SSS
+
+Database - Mock data set found in /public
+
+Server details ( Kiran update this )
+
+- Djago v
+
+Folder setup
+
+/public/
+--/front_end/
+----/ All front end files
+--/data/
+
+app.js 
+package.json 
+(their python equivalents, idk much)
+
+NOTE: For now I have setup node.js server ready to run your algos. If you want switch to python when you wanna or continue with node.
+
+Ciao
